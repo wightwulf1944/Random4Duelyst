@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random for Duelyst</string>
+    <string name="roll">Roll</string>
+    <string name="select_all">Select All</string>
+    <string name="deselect_all">Deselect All</string>
+    <string name="reset">Reset</string>
+    <string name="clear">clear rolls</string>
+</resources>
